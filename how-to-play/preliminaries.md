@@ -1,6 +1,6 @@
 # 0⃣ Preliminaries
 
-[https://faucet.solana.com/](https://faucet.solana.com/)[https://faucet.solana.com/](https://faucet.solana.com/)Godai is built on the Solana network. Therefore, before being able to play you will need to be in possession of Solana wallet and some SOL to pay for the transaction fees.
+Godai runs on the Solana network. Therefore, before being able to play you will need to be in possession of Solana wallet and some SOL to pay for the transaction fees.
 
 {% hint style="info" %}
 Current version of the game is deployed on **devnet**. To play the game you will need to switch your wallet's network to devnet and obtain some [devnet SOL](https://faucet.solana.com/).

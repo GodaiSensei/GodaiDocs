@@ -18,3 +18,6 @@
 
 * [0⃣ Preliminaries](how-to-play/preliminaries.md)
 * [1⃣ Creating a clan](how-to-play/creating-a-clan.md)
+* [2⃣ Joining a battle](how-to-play/joining-a-battle.md)
+* [3⃣ Creating a battle](how-to-play/creating-a-battle.md)
+* [4⃣ Claiming rewards](how-to-play/claiming-rewards.md)
