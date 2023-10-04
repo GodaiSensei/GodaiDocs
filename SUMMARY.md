@@ -16,4 +16,5 @@
 
 ## How to play
 
+* [0⃣ Preliminaries](how-to-play/preliminaries.md)
 * [1⃣ Creating a clan](how-to-play/creating-a-clan.md)
