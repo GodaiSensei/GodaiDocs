@@ -14,10 +14,12 @@
     * [🥊 Combat rules](about/game-mechanics/battle-system/combat-rules.md)
   * [⏳ Staking](about/game-mechanics/staking.md)
 
-## How to play
+## Guides
 
-* [0⃣ Preliminaries](how-to-play/preliminaries.md)
-* [1⃣ Creating a clan](how-to-play/creating-a-clan.md)
-* [2⃣ Joining a battle](how-to-play/joining-a-battle.md)
-* [3⃣ Creating a battle](how-to-play/creating-a-battle.md)
-* [4⃣ Claiming rewards](how-to-play/claiming-rewards.md)
+* [❓ How to play](guides/how-to-play/README.md)
+  * [0⃣ Preliminaries](guides/how-to-play/preliminaries.md)
+  * [1⃣ Creating a clan](guides/how-to-play/creating-a-clan.md)
+  * [2⃣ Joining a battle](guides/how-to-play/joining-a-battle.md)
+  * [3⃣ Creating a battle](guides/how-to-play/creating-a-battle.md)
+  * [4⃣ Claiming rewards](guides/how-to-play/claiming-rewards.md)
+* [♟ Strategy](guides/strategy.md)

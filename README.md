@@ -32,6 +32,6 @@ An important aspect of the game is the play-to-earn (P2E) potential. The users c
 
 ## How to play
 
-{% content-ref url="how-to-play/creating-a-clan.md" %}
-[creating-a-clan.md](how-to-play/creating-a-clan.md)
+{% content-ref url="guides/how-to-play/creating-a-clan.md" %}
+[creating-a-clan.md](guides/how-to-play/creating-a-clan.md)
 {% endcontent-ref %}

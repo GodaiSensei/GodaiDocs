@@ -2,7 +2,7 @@
 
 If you do not find any suitable existing battles you can always create a new one. The can be done by clicking the plus icon on the "Battles" page:
 
-<figure><img src="../.gitbook/assets/create_battle_Image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create_battle_Image.png" alt=""><figcaption></figcaption></figure>
 
 This will open the create battle menu, where you will have to choose the battle arena and set the following parameters:
 
