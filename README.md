@@ -10,11 +10,11 @@ Current version of the game is deployed on **devnet**. To play the game you will
 
 ## Quick description
 
-Godai is web3 game with key focus on strategy and skill. It is set in the world of martial arts, governed by the principle of the five elements ([_Wuxing / Gogyo_](https://en.wikipedia.org/wiki/Wuxing\_\(Chinese\_philosophy\))). Each user controls a clan of fighters, with which he can embark on unique quests (PvE) or compete against other players in several game modes (PvP).
+Godai is web3 game with key focus on strategy and skill. It is set in the world of martial arts, governed by the principle of the five elements ([_Wuxing / Gogyo_](https://en.wikipedia.org/wiki/Wuxing\_\(Chinese\_philosophy\))). Each user controls a clan of fighters, with which he can compete against other players in several game modes (PvP) or embark on unique quests (PvE).
 
-Each fighter is an NFT that can gradually level up and gain new strengths and abilities to use in battles. The fighters can be rented within the game or freely traded on secondary marketplaces (coming soon).
+Each fighter is an NFT that can gradually level up and gain new strengths and abilities to use in battles. The fighters can be rented within the game or freely traded on secondary marketplaces.
 
-An important aspect of the game is the play-to-earn (P2E) potential. The users can choose to enter duels with entry fees that are awarded to the winner, or simply earn passive income by renting out their NFTs.
+An important aspect of the game is the play-to-earn (P2E) potential. The users can choose to enter skirmishes with entry fees that are awarded to the winner, or simply earn passive income by renting out their NFTs.
 
 ## Knowledge base
 

@@ -2,9 +2,9 @@
 
 ## Fighters
 
-The main NFT collection is comprised of the individual fighters, the Acolytes. Each fighter comes with a set of traits that determine his predispositions for mastering each of the five elements. The fighters are collected by Masters to be enlisted in their clans.
+The main NFT collection is comprised of the individual fighters, the Acolytes. Each fighter comes with a set of traits that determine his predispositions for mastering each of the five elements. The fighters are recruited by Masters who are always on a lookout to expand their clans.
 
-When a fighter join a clan, he can begin his combat journey. By participating in quests, duels and tournaments he can earn experience points and taels. The experience points allow him to level-up and earn new attribute points that can be used to increase the proficiency in the elements of his Master's choice. The teals can be used to unlock new fighter's skills, redistribute his attribute points or purchase items in the marketplace.
+When a fighter joins a clan, he can begin his combat journey. By participating in quests, duels and tournaments he can earn experience points and Taels. The experience points allow him to level-up and earn new attribute points that can be used to increase the proficiency in the elements of his Master's choice. The Taels can be used to unlock new fighter's skills, redistribute his attribute points or purchase items in the marketplace.
 
 {% hint style="info" %}
 Supply: TBA
