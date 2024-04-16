@@ -1,14 +1,6 @@
-# ⚙ Battle system
+# ⚙️ Battle system
 
 The battles in Godai follow a strict ancient creed. It is based on the fundamental interplay of the five elements and fighters' abilities. While the key notions are easy to grasp, mastering the battle system takes serious dedication and loads of training.
-
-## Key battle concepts
-
-There are a number of concepts the Masters should understand before engage in battles. Most of them should be familiar, but some might be new.
-
-{% content-ref url="key-battle-concepts.md" %}
-[key-battle-concepts.md](key-battle-concepts.md)
-{% endcontent-ref %}
 
 ## The Elements
 
@@ -16,6 +8,14 @@ The world of Godai consists of five elements: **Eath, Fire, Wood, Water and Meta
 
 {% content-ref url="the-elements.md" %}
 [the-elements.md](the-elements.md)
+{% endcontent-ref %}
+
+## Key battle concepts
+
+There are a number of concepts the Masters should understand before engage in battles. Most of them should be familiar, but some might be new:
+
+{% content-ref url="key-battle-concepts.md" %}
+[key-battle-concepts.md](key-battle-concepts.md)
 {% endcontent-ref %}
 
 ## Combat rules
